@@ -6,7 +6,7 @@ Install Network monitor  https://www.microsoft.com/en-us/download/details.aspx?i
 
 Install Wireshark https://www.wireshark.org/#download
 
-Install Fiddler https://www.telerik.com/download/fiddler
+Install Fiddler Classic https://www.telerik.com/download/fiddler
 
 Insightweb used to format ETL http://insightweb/default.aspx
 
