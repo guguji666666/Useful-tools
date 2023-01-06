@@ -1,6 +1,6 @@
 # Useful tools (Update on 2023.1.2)
 
-## Network
+## Network tracing
 
 [Install Network monitor](https://www.microsoft.com/en-us/download/details.aspx?id=4865)
 
