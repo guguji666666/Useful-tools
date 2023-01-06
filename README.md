@@ -6,7 +6,7 @@
 
 [Install Wireshark](https://www.wireshark.org/#download)
 
-[Install Fiddler](Classic https://www.telerik.com/download/fiddler)
+[Install Fiddler Classic](https://www.telerik.com/download/fiddler)
 
 [Insightweb used to format ETL](http://insightweb/default.aspx)
 
